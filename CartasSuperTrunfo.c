@@ -13,7 +13,7 @@ int main() {
   char nomedacidade1[20], nomedacidade2[20];
   char codigo1[5], codigo2[5];
   char estado1, estado2; 
-
+  
   // Área para entrada de dados
 
   printf("Carta 1: \n");
